@@ -9,9 +9,12 @@ body {
 	font-family:sans-serif;
 	font-style:bold;
 	}
-.fixed-block
 
+.pig{
+	width:400px;
+}
 .photobody{
 	width: 840px;
 	margin: 0 auto;
+	text-align: center;
 }
